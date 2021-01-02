@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchLebImAldi)](https://github.com/anuraghazra/github-readme-stats)
+[![IchLebImAldi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IchLebImAldi)](https://github.com/anuraghazra/github-readme-stats)
