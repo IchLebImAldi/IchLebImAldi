@@ -1,5 +1,9 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IchLebImAldi&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchLebImAldi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchLebImAldi&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+
+
+<a href="https://github.com/sabesansathananthan">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IchLebImAldi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IchLebImAldi&layout=compact&theme=radical" />
+</a>
